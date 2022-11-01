@@ -1,4 +1,4 @@
-# kostas1312 2
+# kostas1312 
 # ai  bot 
 # god mon 
 # teleport 
